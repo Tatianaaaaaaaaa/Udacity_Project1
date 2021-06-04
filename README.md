@@ -1,29 +1,26 @@
 # Boston Airbnb Rental Prices
+This file was created to complete Udacity Data Science Nanodegree
 
 # Installations:
-  Library: pandas, numpy, matplotlib, seaborn；
-  Python 3.8
+Library: pandas, numpy, matplotlib, seaborn;    
+Python 3.8
 
 # Motivation: 
-This file was created to complete the project 1 from Udacity Data Science Nanodegree.
-  Dataset: Boston Airbnb Rental Prices
-  Business Questions: 
+This file was created to complete Udacity Data Science Nanodegree;
+Three business questions will be answered:
     Which features affect the rental price ? 
     How Boston Airbnb Rental Prices related to Seasons?
     What's the predicted Boston Airbnb Rental Prices ?
 
 # File Descriptions:
-calendar
-listings
-reviews
+Listings: full descriptions and average review score
+Reviews: unique id for each reviewer and detailed comments
+Calendar: listing id and the price and availability for that day
 	
 # How to interact with your project:
-When your project isn't meant to be interactive or used for other projects, you should instead talk about the technical details of your project. 
-What were your results? 
-What did you do to improve them? 
-What methods did you try? 
-What worked? 
-What didn't work?
+The main findings of the code can be found here: 
 
 # Licensing, authors, acknowledgement, etc.:
-	You always want to give credit where necessary. Acknowledge other contributors, helpful peers, data providers, etc.
+This dataset is part of Airbnb Inside, and the origninal source can be found here: http://insideairbnb.com/get-the-data.html
+        
+
